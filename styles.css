@@ -1,0 +1,31 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+/* ... (your existing styles) ... */
+
+
+.development-text {
+  font-size: 1rem;
+  color: #FF5733; /* Set your desired colorful text color */
+  text-align: center;
+  margin-top: 0.5rem; /* Adjust the margin as needed */
+}
+/* CENTER CREDIT TEXT */
+
+.credit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem; /* Add padding to control spacing around the text */
+    font-size: var(--smaller-font-size);
+    color: var(--dark-color);
+
+    /* Add any additional styling as needed */
+}
+
+
+
+
+
