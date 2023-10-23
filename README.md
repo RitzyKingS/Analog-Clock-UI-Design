@@ -1,7 +1,7 @@
 # Analog Clock UI Design Using HTML, CSS & JavaScript
 [Live Demo]([#live-demo-link](https://ritzykings.github.io/Analog-Clock-UI-Design/#)) | [View on GitHub](#github-link)
 
-![Analog Clock UI Design](clock.png)
+![Analog Clock UI Design](Clock_UI.png)
 
 ## Project Overview
 This project showcases an elegant Analog Clock UI designed using HTML, CSS, and JavaScript. The clock UI is implemented with the following key features:
