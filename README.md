@@ -1,5 +1,5 @@
 # Analog Clock UI Design Using HTML, CSS & JavaScript
-[Live Demo](#https://ritzykings.github.io/Analog-Clock-UI-Design/#) | [View on GitHub](#github-link)
+[Live Demo](https://ritzykings.github.io/Analog-Clock-UI-Design/#) | [View on GitHub](#github-link)
 
 ![Analog Clock UI Design](Clock_UI.png)
 
